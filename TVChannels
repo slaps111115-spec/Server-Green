@@ -78,3 +78,12 @@ http://104.160.15.53/lbengine/+ph/lQ__ih__crHCSRM9oH9fX9SNxuDTVWFHVdTyVD4PvffsZ2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSlAtMbHB8XspOTcSOGTnPogw8atltoTj-uXqXk9eojfBy5W0vuIFO-AC&s=10",Falcon eye 4
 http://104.160.15.53/lbengine/+ph/ESMjvPZSTEsZGywxbrOJEr3yf2jMt__ih__hRH7QHNPLkE7bVAPU1X525HxJLAftOOCOYHB__ih__ExzWFWx4NbbhfRp__ih__RcLutsQSQTTfOvD7xug8hZusPomhqN3jZ9zRFGfcHTDuHH__hi__NaMo86RAnPgx5N8BB49S3QuItOVEQjmWEDuzAYlERhvNUtzCNKway64KHx7UiL2qddcrb0agPf6XVd56FsFNOqtIQ__hi__WLyD__hi__scih2aKtSuVF__hi__q4bGqLr8Tla7NFEENnnoDX7HsEdBIy7qEOS4pCGKFRLCV4e4Xdv6wEHFUoxHX0=---/cache/Falcon-Eye-4-LB/master.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1KNAgesr9rvZmfgL50WeW1ZIBNkEVbdgRSw&s", irib 4k
+https://lb-cdn.sepehrtv.ir/securelive3/uhd/uhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco7zY7uHS31PgIdozAOF_jkO9vTivH9bxUA0ROMUynw&s=10",irib tv3
+https://af.ayas.ir/hls2/tv3.m3u8
+
+
