@@ -46,5 +46,13 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",beIN Sports News
 http://asmr4k.pro:8080/live/67389201934/0572884955/497109.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjxJo0r.jpeg", my kora 1
+http://104.160.15.52/lbengine/+ph/54NHWxvF6XcBrJ2LQmoUmvdNX736AjK__hi__RaBkTIxWgsHFVONCMHD0I__hi__p7ZuZdr1K__hi__KGwKeZtBsGVIVkGRxZzxU8iKNjOhgr957xX04XSeizqin__hi__1Kvxr51Yk3KdCKrM4IbjrnafXaD5IXg2mhxK7bEK6KM__ih__GJFKvcSBnkAWKz3fi5P0t0S6BSbforNN2pbmDOLcJuTELPhN0VxoNCCWrVdoxbI6jXfdeuGn2hudCNNZj2HyA81BvegmdfAyWhJAvfZ0cpHSEUdjVYRHem__ih__AwrlbRP1k4mmUkrF390tYjKxnRM=---/cache/Kora-PL-LB/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/y47ZbeP",my kora 2
+http://104.160.15.138/LJuA0pcYpv__hi__hptO98IUvOAbqcppwqEynsUgMqvM5h4WTt__hi__B2U0WvfGtJ8__hi__AsLRJpz7oS__ih__FPXRoPs94pWLqhh3lJCCb44M33ktyPAS27IWvtsQ__hi__hux7ibRHfP__ih__qC__hi__BVv7Bl3sX42Dsv5gdshHA65r4s72Q9vliirvcsez2aLwEhDDVypIr__hi__OKPu7fBxHPjCqcI4M__ih__dDeleozq4DWST__hi__RBQlL3xEbO7Q3yTO5zi1xUFT__ih__tG21UvwcUpXIJIYnz8cgR8Bn__ih__fo0QJtlrUGVOtxx520tqPaMvkEI91fl__hi__gieMoPQA=---/cache/Kora-La-LB/m3u8/KORA-LA_tracks-v1a1_mono.m3u8
+
 
 
