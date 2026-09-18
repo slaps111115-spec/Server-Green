@@ -47,6 +47,17 @@ http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/83.ts
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sports XTRA 1
+http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/21275.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png",beIN Sports XTRA 2
+http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/21276.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png", beIN Sports XTRA 3
+http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/1074.ts
+
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",beIN Sports
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8
 
