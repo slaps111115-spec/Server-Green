@@ -45,6 +45,11 @@ http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/82.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png",beIN Sports English 2
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/83.ts
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",beIN Sports French 1
+http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/13793.ts
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",beIN Sports French 2
+http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/13794.ts
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sports XTRA 1
