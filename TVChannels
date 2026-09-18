@@ -27,8 +27,8 @@ http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/3477.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS8.png",beIN Sports 8
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/3478.ts
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",beIN Sports 9
-http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/13791.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",beIN Sports 9 ᴺᴹ
+http://80.96.109.140/proxy?url=http://qwerty8520.online:2052/live/35339268154669/12147019051760/677002.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",beIN Sports English 1
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/82.ts
