@@ -9,38 +9,29 @@ http://217.60.253.206:8080/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaU
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sports 1
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sports 2
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707928
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sports 3
-http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/1223.ts
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sports 4
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/5143.ts
 
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sports 5
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN Sports 4
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/5144.ts
-#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN Sports 5
+http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/5145.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2021/02/beIN_SPORTS66_DIGITAL_Mono-01.png",beIN Sports 6
-http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/5145.ts
+
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN Sports 7 
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/3477.ts
-
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS8.png",beIN Sports 8
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/3478.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",beIN Sports 9
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/13791.ts
-
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",beIN Sports English 1
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/82.ts
@@ -53,7 +44,6 @@ http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/13793.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",beIN Sports French 2
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/13794.ts
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png",beIN Sports XTRA 1
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/21275.ts
@@ -64,20 +54,14 @@ http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/21276.ts
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTSXTRA3.png", beIN Sports XTRA 3
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/1074.ts
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png",beIN Sports
 http://iptv.1stv.xyz:88/live/1stMovies/p3i0BpFPs1Y0n/1223.ts
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png",beIN Sports News
 http://asmr4k.pro:8080/live/67389201934/0572884955/497109.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU5EMzA6TeYjL3A2owm4Qgnkyg6W8bKLXf87OagC6FDA&s=10",beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2021/02/Drama_Stacked_nov_2024_200x200.png",beIN Drama
 http://zakir001.ottclub.xyz/iptv/U4H63WG554TGHR/6137/index.m3u8
@@ -85,15 +69,11 @@ http://zakir001.ottclub.xyz/iptv/U4H63WG554TGHR/6137/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/GOURMET_DIGITAL_Mono.png",beIN Gourmet
 http://ar.ycncdn.online/live/074/index.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzlaqx_EWkBDnnD-n2rbnAPzF7lillmPMOK9JhmS1ww&s=10",beIN Fatafeat
 http://ar.ycncdn.online/live/073/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",beIN Movies 1 Premiere
 http://ar.ycncdn.online/live/076/index.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png", beIN Movies 2 Action
 http://ar.ycncdn.online/live/077/index.m3u8
@@ -101,12 +81,8 @@ http://ar.ycncdn.online/live/077/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png",beIN Movies 3 Drama
 http://ar.ycncdn.online/live/078/index.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png",beIN Movies 4 Family
 http://ar.ycncdn.online/live/079/index.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Bara3em-1.png",Baraeam 
 http://ar.ycncdn.online/live/070/index.m3u8
