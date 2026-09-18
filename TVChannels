@@ -108,6 +108,8 @@ http://ar.ycncdn.online/live/079/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/Bara3em-1.png",Baraeam 
 http://ar.ycncdn.online/live/070/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/Jeem-HD-1-01.png",Jeem
+http://ar.ycncdn.online/live/075/index.m3u8
 
 
 
